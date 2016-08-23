@@ -2,6 +2,11 @@ body {
     background-color: black;
 }
 
+.logo {
+    display: inline-block;
+    color: white;
+}
+
 .main {
     background-color: white;
     margin-top: 110px;
